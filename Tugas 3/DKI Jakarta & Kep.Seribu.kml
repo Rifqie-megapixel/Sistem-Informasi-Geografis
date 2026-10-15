@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[DKI Jakarta & Kep.Seribu]]></name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Kabupaten Administrasi Kepulauan Seribu</name>
+      <description><![CDATA[Id: 1<br>Latitude: -5.7404328<br>Longitude: 106.6011567]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Id">
+          <value>1.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-5.7404328</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.6011567</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.6011567,-5.7404328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Administrasi Jakarta Pusat</name>
+      <description><![CDATA[Id: 2<br>Latitude: -6.180511<br>Longitude: 106.828383]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Id">
+          <value>2.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.180511</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.828383</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.828383,-6.180511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Administrasi Jakarta Utara</name>
+      <description><![CDATA[Id: 3<br>Latitude: -6.132226<br>Longitude: 106.879789]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Id">
+          <value>3.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.132226</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.879789</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.879789,-6.132226,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Administrasi Jakarta Barat</name>
+      <description><![CDATA[Id: 4<br>Latitude: -6.155891<br>Longitude: 106.757049]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Id">
+          <value>4.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.155891</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.757049</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.757049,-6.155891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Administrasi Jakarta Selatan</name>
+      <description><![CDATA[Id: 5<br>Latitude: -6.261493<br>Longitude: 106.8106]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Id">
+          <value>5.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.261493</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.8106</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.8106,-6.261493,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kota Administrasi Jakarta Timur</name>
+      <description><![CDATA[Id: 6<br>Latitude: -6.225014<br>Longitude: 106.900447]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="Id">
+          <value>6.0</value>
+        </Data>
+        <Data name="Latitude">
+          <value>-6.225014</value>
+        </Data>
+        <Data name="Longitude">
+          <value>106.900447</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.900447,-6.225014,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
